@@ -25,5 +25,6 @@ It demonstrates the use of **word embeddings**, **sequence padding**, and **RNN 
 7. Save the trained model.
 
 ![alt text](rnn-moviereview-prediction/model.png)
+---
 ![alt text](rnn-moviereview-prediction/prediction.png)
 

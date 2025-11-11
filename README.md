@@ -24,7 +24,11 @@ It demonstrates the use of **word embeddings**, **sequence padding**, and **RNN 
 6. Evaluate model performance.  
 7. Save the trained model.
 
-![alt text](rnn-moviereview-prediction/model.png)
 ---
+
+![alt text](rnn-moviereview-prediction/model.png)
+
+---
+
 ![alt text](rnn-moviereview-prediction/prediction.png)
 
